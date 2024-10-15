@@ -1,0 +1,6 @@
+## Interface: 11304  ; Numéro de version pour WoW Classic
+## Title: My Debuff Addon
+## Notes: Affiche les débuffs que vous avez appliqués à la cible
+## Author: Zora387
+
+MyDebuffAddon.lua
